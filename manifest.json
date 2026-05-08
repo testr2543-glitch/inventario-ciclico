@@ -1,0 +1,16 @@
+{
+  "name": "Inventario Cíclico",
+  "short_name": "InvCíclico",
+  "description": "App de inventario cíclico offline con Excel",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0f1e",
+  "theme_color": "#0a0f1e",
+  "lang": "es",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "prefer_related_applications": false
+}
